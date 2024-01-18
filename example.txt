@@ -1,0 +1,21 @@
+[
+  {
+    "firstName": "test",
+    "lastName": "test",
+    "mail": "test",
+    "password": "test"
+  }
+][
+  {
+    "firstName": "test",
+    "lastName": "test",
+    "mail": "test",
+    "password": "test"
+  },
+  {
+    "firstName": "test",
+    "lastName": "test",
+    "mail": "test",
+    "password": "test"
+  }
+]
